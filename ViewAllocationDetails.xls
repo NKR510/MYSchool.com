@@ -1,0 +1,13 @@
+<style> td {mso-number-format:\@;text-align:Top;} </style><div>
+	<table cellspacing="0" rules="all" border="1" style="font-family:Verdana;font-size:8pt;border-collapse:collapse;">
+		<tr>
+			<th scope="col">KINID</th><th scope="col">Associate</th><th scope="col">RequisitionID</th><th scope="col">ProjectCode</th><th scope="col">ProjectName</th><th scope="col">Allocation Start Date</th><th scope="col">Allocation End Date</th><th scope="col">Billability</th><th scope="col">Role</th><th scope="col">Account</th><th scope="col">Location</th><th scope="col">Updated Date</th><th scope="col">Designation</th><th scope="col">Practice</th>
+		</tr><tr>
+			<td>92507_FS</td><td>Reddy, Mr Konda</td><td>2017_99378_001</td><td>100424983</td><td>METS2 - Bench code</td><td>14 Sep 2017</td><td>31 Dec 2017</td><td>BILL</td><td>Test Engineer</td><td>CAPGEMINI AUSTRALIA</td><td>IN Bangalore</td><td>&nbsp;</td><td>Consultant</td><td>GP-TEST</td>
+		</tr><tr>
+			<td>92507_FS</td><td>Reddy, Mr Konda</td><td>2017_97447_001</td><td>100424909</td><td>METS2 - TEM</td><td>14 Sep 2017</td><td>14 Sep 2017</td><td>BILL</td><td>Test Engineer</td><td>CAPGEMINI AUSTRALIA</td><td>IN Bangalore</td><td>29 Sep 2017</td><td>Consultant</td><td>GP-TEST</td>
+		</tr><tr>
+			<td>92507_FS</td><td>Reddy, Mr Konda</td><td>2017_68830_001</td><td>100169234</td><td>METS - ENV</td><td>14 Sep 2017</td><td>14 Jul 2017</td><td>BILL</td><td>Test Engineer</td><td>Capgemini Australia Pty Ltd (METS)</td><td>IN Bangalore</td><td>&nbsp;</td><td>Consultant</td><td>GP-TEST</td>
+		</tr>
+	</table>
+</div>
